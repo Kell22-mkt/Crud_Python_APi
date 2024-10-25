@@ -4,6 +4,7 @@
 
 Este repositório contém um projeto de API em Python que implementa um CRUD de usuários usando **FastAPI**. A aplicação permite a criação, leitura, atualização e exclusão de usuários, com **Docker** para gestão de containers e **PostgreSQL** como banco de dados relacional.
 
+
 ## 🚀 Funcionalidades da API
 
 A API oferece os seguintes endpoints para manipulação dos dados de usuários:
